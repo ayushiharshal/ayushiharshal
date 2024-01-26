@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushiharshal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning basics of C++
+- 🌱 I’m learning machine learning
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 
